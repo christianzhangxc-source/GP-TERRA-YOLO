@@ -1,0 +1,9 @@
+Igneous_Basalt
+Igneous_Diorite
+Igneous_Granite
+Metamorphic_Marble
+Metamorphic_Quartize
+Sedimentary_Chalk
+Sedimentary_Limestone
+Sedimentary_Sandstone
+Sedimentary_coal
